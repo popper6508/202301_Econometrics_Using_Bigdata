@@ -1,0 +1,12 @@
+
+Description for the data set from the file macrodata.txt
+
+Quarterly data (seasonally adjusted) for the period 1999 3/4 - 2017 3/4 inclusive.
+
+  Observations: 73  
+  Variables:     3 
+
+  1st Column : unemployment rate :   Percentage unemployed.
+  2nd Column : Gov't Expenditure :   Gov't expenditure (in Billions of won).
+  3rd Column : interest rate :       Annual percentage of yields on CD (91-day) 
+
