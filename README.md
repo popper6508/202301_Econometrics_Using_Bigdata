@@ -37,26 +37,28 @@ Project 차차
     - 상관행렬을 활용
     - Varimax의 결과가 비교적 깔끔하게 도출 : 다른 요인 회전 방식에 비해 상관성이 떨어지는 다양한 측면의 요인을 잘 도출해 우리의 분석 목적에 부합
     - Factor1-2 도출
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13e9c28e-1a75-4488-b728-13a834e12a6b/Untitled.png)
+        ![image](https://github.com/popper6508/202301bigdataanalysis/assets/118153199/c1eca5f7-f3f4-45cd-b57c-3781d44fdaac)
+
+       
         
 4. 도출된 Factor 기반으로 회귀분석 진행
 
 - **기본적인 특성**
     - Factor1 특성
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cad461e2-c5a4-471b-8f2b-9ebb88f3ea62/Untitled.png)
-        
+        ![image](https://github.com/popper6508/202301bigdataanalysis/assets/118153199/33555991-a113-47c8-b714-9a2a69230e22)
+
+
         - 수도권 및 광역시권과 나머지의 격차가 드러나는 지표 : 주로 인프라 혹은 생활 환경 여건 관련 지표로 볼 수 있다.
             - 수도권과 광역시권 주변은 어디든 상관없이 전반적으로 양호한 흐름
     - Factor2 특성
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d8dd407-3b88-49b8-a7c4-5d3c5c645fbe/Untitled.png)
+  
         
         - 경기 남부 IT, 반도체 클러스터, 구미-창원-울산 중심의 제조업 클러스터 중심으로 양호한 흐름. 수도권 등 지역 내부에서도 다른 양상. 인프라와 생활 여건 관계없이 지역 내 부가가치 창출 수준에 따라 지표가 달라지는 흐름
             - 지역의 부가가치 창출 능력, 산업, 지역 내 인적자본 수준을 나타내는 지표로 해석 가능
     
-    ![factor1는 가까운 지역을 그대로 따라가기에 분포가 전반적으로 고르지만, factor는 지역군 내에서도 특정한 지역에 쏠리는 경향을 보이기에 대부분은 일정 수준 근방에 있지만 극단적으로 양호한 값을 보이는 지역 존재](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11813a62-9477-48ab-a36f-60f477ce46d9/Untitled.png)
+    ![factor1는 가까운 지역을 그대로 따라가기에 분포가 전반적으로 고르지만, factor는 지역군 내에서도 특정한 지역에 쏠리는 경향을 보이기에 대부분은 일정 수준 근방에 있지만 극단적으로 양호한 값을 보이는 지역 존재]![image](https://github.com/popper6508/202301bigdataanalysis/assets/118153199/3e646eb7-86ee-43f6-9e1a-371498db5562)
+
     
     factor1는 가까운 지역을 그대로 따라가기에 분포가 전반적으로 고르지만, factor는 지역군 내에서도 특정한 지역에 쏠리는 경향을 보이기에 대부분은 일정 수준 근방에 있지만 극단적으로 양호한 값을 보이는 지역 존재
     
