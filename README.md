@@ -1,9 +1,9 @@
 # 202301bigdataanalysis
-2023 1학기 Bigdata Analysis Lecture
+# 2023 1학기 Bigdata Analysis Lecture
 
-##Project 절차
+## Project 절차
 
-- 자료 가공 과정
+### 자료 가공 과정
     1. 선거 데이터 정리
         - 선거관리위원회 선거 데이터는 도-특별시 / 시군구 / 구 - 동읍면 / 선거 장소 순
         - 이중 시군구 단위를 기준으로 데이터를 정리하기 위해 동읍면의 ‘합계’를 기준으로 데이터 정리
@@ -30,7 +30,7 @@
     - ***Bartlett 검정*** 
         - ‘구형성 검정’ : 자료가 일정한 관계 없이 퍼져 있는지 검정 ⇒ 변수 간 관계가 있는지 확인
         
-- PCA
+### PCA
 1. Factor Analysis → Communalities 0.5를 기준으로 변수를 걸러내는 작업
 2. 변수를 걸러낸 이후 KMO 및 Bartlett 검정 진행
 3. 선택된 변수로 Varimax, Equamax, Quartimax과 Principal Factor 기법을 사용해 Factor Analysis 진행
