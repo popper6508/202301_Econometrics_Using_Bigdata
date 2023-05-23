@@ -1,7 +1,7 @@
 # 202301bigdataanalysis
 2023 1학기 Bigdata Analysis Lecture
 
-Project 차차
+Project 절차
 
 - 자료 가공 과정
     1. 선거 데이터 정리
