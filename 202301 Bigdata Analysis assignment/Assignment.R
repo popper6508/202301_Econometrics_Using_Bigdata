@@ -1,6 +1,4 @@
 source("package_library.R")
-setwd("./assignment/")
-
 #1
 ass1 <- as.data.frame(read.csv("sales.csv", sep = " "))
 
