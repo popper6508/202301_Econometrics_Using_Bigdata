@@ -56,11 +56,11 @@
         - ‘구형성 검정’ : 자료가 일정한 관계 없이 퍼져 있는지 검정 ⇒ 변수 간 관계가 있는지 확인
         
 ### PCA
-1. Factor Analysis → Communalities 0.5를 기준으로 변수를 걸러내는 작업
+1. PCA using correlation matrix → Communalities 0.5를 기준으로 변수를 걸러내는 작업
 2. 변수를 걸러낸 이후 KMO 및 Bartlett 검정 진행
-3. 선택된 변수로 Varimax, Equamax, Quartimax과 Principal Factor 기법을 사용해 Factor Analysis 진행
+3. 선택된 변수로 Varimax, Equamax, Quartimax 등의 요인회전 등을 사용해 PCA 진행하여 비교 검토
     - 상관행렬을 활용
-    - Varimax의 결과가 비교적 깔끔하게 도출 : 다른 요인 회전 방식에 비해 상관성이 떨어지는 다양한 측면의 요인을 잘 도출해 우리의 분석 목적에 부합
+    - Varimax의 결과가 비교적 깔끔하게 도출 : 다른 요인 회전 방식에 비해 상관성이 떨어지는 다양한 측면의 요인을 도출해 분석 목적에 부합
     - Factor1-2 도출
         ![image](https://github.com/popper6508/202301bigdataanalysis/assets/118153199/c1eca5f7-f3f4-45cd-b57c-3781d44fdaac)
 
