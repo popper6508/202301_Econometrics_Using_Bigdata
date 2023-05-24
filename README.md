@@ -91,6 +91,8 @@
     - 전반적인 생활 인프라 여건과 경제 수준 중 무엇이 사람들의 투표 여부 의사결정에 큰 영향을 주는지 확인 가능.
 
 - 주성분회귀
+  ![image](https://github.com/popper6508/202301_bigdataanalysis/assets/118153199/e18eb467-3305-450d-877b-2a260a7a1ced)
+  ![image](https://github.com/popper6508/202301_bigdataanalysis/assets/118153199/d47a6bcd-569a-4148-b709-fad2a4af837c)
     - 확인한 포인트
         - 이분산 : 존재하는 것으로 확인 (이분산의 분포를 이용한 활용방안 있을 것)
         - 자기상관 (없는 것으로 확인)
