@@ -1,4 +1,4 @@
-# 2023 1학기 Bigdata Analysis Picture
+# 2023 1학기 Bigdata Analysis Lecture Data Analysis Project
 
 ## Project 절차
 
