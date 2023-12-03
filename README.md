@@ -1,4 +1,4 @@
-# 2023 1학기 Bigdata Analysis Lecture Data Analysis Project
+# 2023-01 Econometrics Using Bigdata Analysis Project
 
 ## Project 절차
 
